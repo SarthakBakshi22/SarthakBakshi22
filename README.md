@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakbakshi22&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakbakshi22" /> </p>
 
+- ⚡ Fun fact **I am a big Anime Fan!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/sarthakbakshi22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarthakbakshi22" height="30" width="40" /></a>
@@ -14,3 +16,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakbakshi22&show_icons=true&locale=en&layout=compact" alt="sarthakbakshi22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakbakshi22&show_icons=true&locale=en" alt="sarthakbakshi22" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakbakshi22&" alt="sarthakbakshi22" /></p>
