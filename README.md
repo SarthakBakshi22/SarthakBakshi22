@@ -2,10 +2,10 @@
 <h3 align="center">Software Developer and AI/NLP enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakbakshi22&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakbakshi22" /> </p>
-- Passionate Software Engineer with a love for problem-solving, and building scalable solutions.
-- Enthusiastic about leveraging technology to solve real-world problems. 
-- Open to collaboration and always seeking new challenges!
-- ⚡ Fun fact **I am a big Anime Fan!**
+  - Passionate Software Engineer with a love for problem-solving and building scalable solutions.
+  - Enthusiastic about leveraging technology to solve real-world problems. 
+  - Open to collaboration and always seeking new challenges!
+  - ⚡ Fun fact **I am a big Anime Fan!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
